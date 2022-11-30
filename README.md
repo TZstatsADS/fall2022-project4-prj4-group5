@@ -5,15 +5,14 @@
 Term: Fall 2022
 
 + Team # 5
-+ Projec title: Lorem ipsum dolor sit amet
-+ Team members
++ Project title:Machine Learning Fairness
 	+ Ying Gao
 	+ Xiaoyuan Ge
 	+ Christopher Halim
 	+ Dhruv Limaye
 	+ Zhejing Shi
 	
-+ Project summary: In the project, we explore seven algorithms in the field of machine learning fairness. They are Learning fair representations (LFR)，Maximizing accuracy under fairness constraints (C-SVM and C-LR)，Maximizing fairness under accuracy constraints (gamma and Fine-gamma)，Fairness Beyond Disparate Treatment and Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)，Fairness-aware Classifier with Prejudice Remover Regularizer (PR)，Handling Conditional Discrimination (LM and LPS) and Information Theoretic Measures for Fairness-aware Feature selection (FFS).
++ Project summary: In the project, we explore seven algorithms in the field of machine learning fairness. They are Learning fair representations (LFR)，Maximizing accuracy under fairness constraints (C-SVM and C-LR)，Maximizing fairness under accuracy constraints (gamma and Fine-gamma)，Fairness Beyond Disparate Treatment and Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)，Fairness-aware Classifier with Prejudice Remover Regularizer (PR)，Handling Conditional Discrimination (LM and LPS) and Information Theoretic Measures for Fairness-aware Feature selection (FFS). And then use those algorithms to predict accuracy and calibration for different algorithms.
 	
 **Contribution statement**:  All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
